@@ -35,7 +35,7 @@ const TestemonySlides = (props) => {
                                 <Card.Title>Lorem ipsum</Card.Title>
                                 <Card.Text>
                                     Some quick example text to build on the card title and make up the
-                                    bulk of the card's content.
+                                    bulk of the card&apos;s content.
                                 </Card.Text>
                                 <div className="row">
                                     <div className="col-md-4 pt-3 ">

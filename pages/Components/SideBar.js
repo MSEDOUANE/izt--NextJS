@@ -14,10 +14,10 @@ function SideBar() {
                     }}>Follow us on<span></span></h6>
 
                     <ul className="social-footer2">
-                        <li className=""><a title="tiktok" target="_blank" href="https://www.tiktok.com/">  <FaTiktok style={{ fontSize: '20px', color: '#fff' }} /></a></li>
-                        <li className=""><a href="https://www.facebook.com/" target="_blank" title="Facebook"> <FaFacebook style={{ fontSize: '20px', color: '#fff' }} /></a></li>
-                        <li className=""><a href="https://twitter.com" target="_blank" title="Twitter"><FaTwitter style={{ fontSize: '20px', color: '#fff' }} /></a></li>
-                        <li className=""><a title="instagram" target="_blank" href="https://www.instagram.com/"><FaInstagram style={{ fontSize: '20px', color: '#fff' }} /></a></li>
+                        <li className=""><a title="tiktok" target="_blank" href="https://www.tiktok.com/"  rel="noreferrer">  <FaTiktok style={{ fontSize: '20px', color: '#fff' }} /></a></li>
+                        <li className=""><a href="https://www.facebook.com/" target="_blank" title="Facebook"  rel="noreferrer"> <FaFacebook style={{ fontSize: '20px', color: '#fff' }} /></a></li>
+                        <li className=""><a href="https://twitter.com" target="_blank" title="Twitter"  rel="noreferrer"><FaTwitter style={{ fontSize: '20px', color: '#fff' }} /></a></li>
+                        <li className=""><a title="instagram" target="_blank" href="https://www.instagram.com/"  rel="noreferrer"><FaInstagram style={{ fontSize: '20px', color: '#fff' }} /></a></li>
                     </ul>
                 </div>
             </div >

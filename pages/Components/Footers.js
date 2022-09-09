@@ -19,7 +19,7 @@ const Footer = () => (
           </div>
           <p className="text-white text-justify">
             Interville ZEROUAL TRANSPORT Votre partenaire de voyage sur
-            l'ensemble du territoire Marocain Avec plus que 30 véhicules
+            l&apos;ensemble du territoire Marocain Avec plus que 30 véhicules
             différents et un staff expérimenté, nous vous accompagnons sur les
             longs comme les les déplacements courts trajets, pour assurer votre
             confort et votre sécurité. Nous vous emmenons où vous voulez, quand
@@ -40,6 +40,7 @@ const Footer = () => (
                   className="d-flex "
                   target="_blank"
                   title="Twitter"
+                  rel="noreferrer"
                 >
                   <span
                     className="bg-white rounded-full d-flex justify-content-center items-center mr-4"
@@ -59,6 +60,7 @@ const Footer = () => (
                   className="d-flex "
                   target="_blank"
                   href="https://www.instagram.com/"
+                  rel="noreferrer"
                 >
                   {" "}
                   <span
@@ -79,6 +81,7 @@ const Footer = () => (
                   className="d-flex "
                   target="_blank"
                   href="https://www.instagram.com/"
+                  rel="noreferrer"
                 >
                   {" "}
                   <span

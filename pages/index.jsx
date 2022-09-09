@@ -56,7 +56,7 @@ export default function Home() {
                     </div>
                   </div>
                   <h4 className=" text-white text-uppercase text-lg font-extralight">
-                    ANS D'EXISTENCE
+                    ANS D&apos;EXISTENCE
                   </h4>
                 </div>
                 <div className="col-md-6">
@@ -135,7 +135,7 @@ export default function Home() {
                   <ul className="p-0">
                     <li>Des chaufferus professionnels hautement formés</li>
                     <li>La sécurité comme notre priorité la plus élevée</li>
-                    <li>Poursuite de l'am"lioration continue</li>
+                    <li>Poursuite de l&apos;amélioration continue</li>
                     <li>Ponctualité et véracité</li>
                     <li>Utlisiation innovante de la technologie</li>
                     <li>Véhicules propres et bien entretenus</li>
@@ -197,7 +197,7 @@ export default function Home() {
                 <div className="col-md-3">
                   <h6 className=" text-yellow-500 text-center">
                     {" "}
-                    La sécurité d'abord{" "}
+                    La sécurité d&lsquo;abord{" "}
                   </h6>
                   <p className="text-white text-center">
                     Personnel
@@ -218,7 +218,7 @@ export default function Home() {
                     <br />
                     vous offrir le bon <br />
                     véhicule au bon <br />
-                    prix pour s'adapter <br />à votre budget
+                    prix pour s&lsquo;adapter <br />à votre budget
                   </p>
                 </div>
                 <div className="col-md-3">
@@ -243,12 +243,12 @@ export default function Home() {
                 <div className="col-md-3">
                   <h6 className=" text-yellow-500 text-center">
                     {" "}
-                    Service à l'échelle nationale{" "}
+                    Service à l&lsquo;échelle nationale{" "}
                   </h6>
                   <p className="text-white text-center">
                     Nous offrons nos services
                     <br />
-                    de transport à l'échelle <br />
+                    de transport à l&lsquo;échelle <br />
                     nationale pour vos affaires <br />
                     au loisirs
                   </p>

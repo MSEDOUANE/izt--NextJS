@@ -94,7 +94,7 @@ export default function Header() {
             <span className="point"></span> DES CHAUFFEURS PROFESSIONNELS HAUTEMENT FORMÉS
           </li>
           <li className="hamza ">
-            <span className="point"></span> POURSUITE DE L'AMÉLIORATION CONTINUE
+            <span className="point"></span> POURSUITE DE L&apos;AMÉLIORATION CONTINUE
           </li>
           <br/>
           <li className="hamza">
