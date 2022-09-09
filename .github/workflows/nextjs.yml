@@ -85,7 +85,7 @@ jobs:
       - name: deploy
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: ${{secrets.FTP_SERVER}}
-          username: ${{secrets.FTP_USERNAME}}@{{secrets.FTP_SERVER}}
-          password: ${{secrets.FTP_PASSWORD}}
+          server: tradeline-solutions.com
+          username: tradelin@tradeline-solutions.com
+          password: TLS/@2021
           local-dir: ./
