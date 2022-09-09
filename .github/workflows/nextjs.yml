@@ -88,4 +88,4 @@ jobs:
           server: tradeline-solutions.com
           username: tradelin@tradeline-solutions.com
           password: TLS/@2021
-          local-dir: ./public_html/izt_deployment
+          local-dir: ./public_html/izt_deployment/
